@@ -6,3 +6,5 @@
   wifi ,Bluetooth, Ram etc predict the Price range of the mobile.
 * Task 3:- Prepare the analysis report stating how model will help expanding the
   business by stating several factors including feature importance.
+
+![Uploading 399694-smartphones-apple-iphone-11-10008711.png…]()
