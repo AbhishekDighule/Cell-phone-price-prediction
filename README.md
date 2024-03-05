@@ -48,7 +48,3 @@ The columns are described as follows: Dataset as 21 features and 2000 entries. T
 * Predict the price range for test data
 * Compute Confusion matrix and classification report for each of these models.
 * Report the model with the best accuracy.
-
-
-
-![399694-smartphones-apple-iphone-11-10008711](https://github.com/AbhishekDighule/Cell-phone-price-prediction/assets/145597070/bc8afc76-396c-42ca-9a39-28214cc06fa7)
